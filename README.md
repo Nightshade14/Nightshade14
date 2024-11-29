@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Machine Learning Engineer with industry experience in building production-grade and planet scale AI systems. Currently pursuing MS in Computer Science at New York University (NYU), specializing in AI/ML. Passionate about developing scalable ML solutions and contributing to open-source projects.
+Machine Learning Engineer with industry experience in building production-grade and planet scale AI systems. Currently pursuing MS in Computer Science at New York University (NYU), specializing in AI / ML. Passionate about developing scalable ML solutions and contributing to open-source projects.
 
 ## 🔭 Currently Working On
 
