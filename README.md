@@ -9,7 +9,7 @@ Machine Learning Engineer with industry experience in building production-grade 
 
 ## 🔭 Currently Working On
 
-- Deep Learning research projects at NYU
+- Deep Learning research projects at New York University
 - Exploring Large Language Models and their applications
 - Building scalable Machine Learning pipelines
 - Contributing to open-source ML projects
