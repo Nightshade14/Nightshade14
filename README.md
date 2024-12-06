@@ -12,7 +12,7 @@ Machine Learning Engineer with industry experience in building production-grade 
 - Deep Learning research projects at New York University
 - Exploring Large Language Models and their applications
 - Building scalable Machine Learning pipelines
-- Contributing to open-source ML projects
+- Contributing to open-source Machine Learning projects
 
 ## 💻 Tech Stack
 
