@@ -8,7 +8,7 @@
 Machine Learning Engineer with industry experience in building production-grade and planet scale AI systems. Currently pursuing MS in Computer Science at New York University (NYU), specializing in AI / ML. Passionate about developing scalable ML solutions and contributing to open-source projects.
 
 ## Achievements
-- Won Qualcomm x Microsoft x LM Studio 's edge AI Hackathon with AI leveraging the new Qualcomm Snapdragon X series laptop processor's Neural Processing Unit (NPU). Decreased inference latency and battery consumption on edge devices.
+- Won Qualcomm x Microsoft x LM Studio 's edge AI Hackathon with AI leveraging the new Qualcomm Snapdragon X-series laptop processor's Neural Processing Unit (NPU). Decreased inference latency and battery consumption on edge devices.
 - Won India's Next Development Renewable Energy & Astronomy (INDRA-9) by developing a smart irrigation-system.
 - 1st runner-up in Kaggle O Predictor; a Data Science competition.
 
