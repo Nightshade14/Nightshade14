@@ -9,7 +9,7 @@ Machine Learning Engineer with industry experience in building production-grade 
 
 ## Achievements
 - Won Qualcomm x Microsoft x LM Studio's edge AI Hackathon with AI leveraging the new Qualcomm Snapdragon X-series laptop processor's Neural Processing Unit (NPU). Decreased inference latency and battery consumption on edge devices.
-- Won India's Next Development Renewable Energy & Astronomy (INDRA-9) by developing a smart abd efficient irrigation-system.
+- Won India's Next Development Renewable Energy & Astronomy (INDRA-9) by developing a smart and efficient irrigation-system.
 - 1st runner-up in Kaggle O Predictor; a Data Science competition.
 
 ## 🔭 Currently Working On
