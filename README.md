@@ -15,7 +15,8 @@ Machine Learning Engineer with professional experience in building production-gr
 ## 🔭 Currently Working On
 
 - Deep Learning research projects at New York University
-- Exploring Language Models (Large & Small), Agentic AI and Mixture of Experts and their applications at scale
+- Exploring Language Models (Large & Small) and their applications at scale
+- Leveraging Agentic AI and Mixture of Experts to create Compound AI Systems
 - Building scalable and efficient Machine Learning pipelines
 - Contributing to open-source Machine Learning projects
 
