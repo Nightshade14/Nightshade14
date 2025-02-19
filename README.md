@@ -107,7 +107,6 @@ Machine Learning Engineer with professional experience in building production-gr
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nightshade14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&custom_title=Github%20Statisitcs" height="150" alt="stats graph"  />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Nightshade14)](https://git.io/streak-stats)
   <img src="https://streak-stats.demolab.com?user=Nightshade14&locale=en&mode=weekly&theme=swift&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nightshade14&area=true&hide_border=false&hide_title=false&theme=minimal&custom_title=Contribution%20Graph&line=f3bda3&point=e25a1a&area_color=e25a1a&radius=5" height="262" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Nightshade14&theme=flat&no-frame=true&no-bg=false" height="150" alt="trophy graph"  />
