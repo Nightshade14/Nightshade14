@@ -18,7 +18,7 @@ Machine Learning Engineer with professional experience in building production-gr
 - Leveraging Agentic AI and Mixture of Experts to create Compound AI Systems
 - Exploring Language Models (Large & Small) and their applications at scale
 - Building scalable and efficient Machine Learning pipelines
-- Contributing to open-source Machine Learning projects
+- Contributing to open-source Machine Learning and AI projects
 
 ## 💻 Tech Stack
 
