@@ -17,6 +17,7 @@ Machine Learning Engineer with professional experience in building production-gr
 - Deep Learning research @ New York University
 - Leveraging Agentic AI and Mixture of Experts (MoE) to create Compound AI Systems
 - Exploring Language Models (Large & Small) and their applications at scale
+- RecSys and Search Systems
 - Building scalable and efficient Machine Learning pipelines
 - Contributing to open-source Machine Learning and AI projects
 
