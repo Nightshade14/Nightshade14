@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Machine Learning Engineer with professional experience in building production-grade and planet-scale AI systems. Graduated with Masters in Computer Science at New York University (NYU), specializing in AI and ML systems. Passionate about scalable AI solutions and contributing to open-source projects.
+Machine Learning Engineer with 3+ years of professional experience in building production-grade and planet-scale AI systems. Graduated with Masters in Computer Science at New York University (NYU), specializing in AI and ML systems. Passionate about scalable AI solutions and contributing to open-source projects.
 
 ## Achievements
 - 1st Runner Up Qualcomm x Microsoft Edge AI Hackathon with AI leveraging the new Qualcomm Snapdragon X-series laptop System on Chips (SoC)'s Neural Processing Unit (NPU). Decreased response inference latency and battery consumption on edge devices by utilizing specialized hardware (NPU).
