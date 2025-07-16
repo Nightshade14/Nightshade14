@@ -14,7 +14,7 @@ I'm a passionate Machine Learning Engineer with **3+ years of experience** build
 - Participated in Meta's Llama 4 Hackathon NYC and created an awesome project (Get in touch to know more!)
 
 ## 🔭 Currently Working On
-
+- Language Models in Search and Recommendation domain
 - Deep Learning research @ New York University
 - Leveraging Agentic AI, Mixture of Experts (MoE), and Model Context Protocol (MCP) to create Compound AI Systems
 - Exploring Language Models (Large & Small) and their applications at scale
