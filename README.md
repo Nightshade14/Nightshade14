@@ -11,7 +11,7 @@ I'm a passionate Machine Learning Engineer with **3+ years of experience** build
 - 1st Runner Up Qualcomm x Microsoft Edge AI Hackathon with AI leveraging the new Qualcomm Snapdragon X-series laptop System on Chips (SoC)'s Neural Processing Unit (NPU). Decreased response inference latency and battery consumption on edge devices by utilizing specialized hardware (NPU).
 - Won India's Next Development Renewable Energy & Astronomy (INDRA-9) by developing a smart, efficient and cost-effective irrigation-system.
 - 1st runner-up in Kaggle O Predictor; a Data Science hackathon.
-- Participated in Meta's Llama 4 Hackathon NYC and created an awesome project (Get in touch to know more!)
+- Participated in Meta's Llama 4 Hackathon NYC and worked on an awesome idea
 
 ## 🔭 Currently Working On
 - Language Models in Search and Recommendation domain
