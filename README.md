@@ -14,7 +14,6 @@ I'm a Machine Learning Engineer with **3+ years of experience** building scalabl
 - Participated in Meta's Llama 4 Hackathon NYC and worked on an awesome idea
 
 ## 🔭 Currently Working On
-- SOTA RecSys
 - Language Models in Search, Recommendation and Ranking
 - Deep Learning research @ New York University
 - Leveraging Agentic AI, Mixture of Experts (MoE), and Model Context Protocol (MCP) to create Compound AI Systems
