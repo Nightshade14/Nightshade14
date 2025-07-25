@@ -15,7 +15,6 @@ I'm a Machine Learning Engineer with **3+ years of experience** building scalabl
 
 ## 🔭 Currently Working On
 - Language Models in Search, Recommendation and Ranking
-- Deep Learning research @ New York University
 - Leveraging Agentic AI, Mixture of Experts (MoE), and Model Context Protocol (MCP) to create Compound AI Systems
 - Exploring Language Models (Large & Small) and their applications at scale
 - Recommendation Engines and Search Systems
