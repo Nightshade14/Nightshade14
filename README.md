@@ -7,6 +7,10 @@
 
 I'm a Machine Learning Engineer with **3+ years of experience** building scalable AI systems that serve millions of users. Recently graduated from MS in Computer Science at NYU while bringing cutting-edge research into production-ready engineering.
 
+- Boosted CTR by 34% and conversion lift by 7.2% after spearheading 6 real-time recommendation pipelines that build dynamic affinity profiles and apply geo-contextual targeting with real-time behavioral signals 
+- Productized the search & recommendation stack as a configurable plug-and-play microservice inside the headless CMS, adding UI-driven ranking knobs and fallback rules that opened a $300K ARR upsell channel 
+- Delivered 0.83 MAP@10 and 90 % Recall@10 by architecting a personalized hybrid lexical + semantic search engine for a 5M SKU catalog, combining Learning-to-Rank, custom entity taggers and multi-stage re-ranking 
+
 ## Achievements
 - 1st Runner Up Qualcomm x Microsoft Edge AI Hackathon with AI leveraging the new Qualcomm Snapdragon X-series laptop System on Chips (SoC)'s Neural Processing Unit (NPU). Decreased response inference latency and battery consumption on edge devices by utilizing specialized hardware (NPU).
 - Won India's Next Development Renewable Energy & Astronomy (INDRA-9) by developing a smart, efficient and cost-effective irrigation-system.
