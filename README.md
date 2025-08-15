@@ -18,7 +18,6 @@ I'm a Machine Learning Engineer with **3+ years of experience** building scalabl
 - Participated in Meta's Llama 4 Hackathon NYC and worked on an awesome idea
 
 ## 🔭 Currently Working On
-- Audio Fingerprinting and Content Understanding
 - Language Models in Search, Recommendation and Ranking
 - Leveraging Agentic AI, Mixture of Experts (MoE), and Model Context Protocol (MCP) to create Compound AI Systems
 - Exploring Language Models (Large & Small) and their applications at scale
