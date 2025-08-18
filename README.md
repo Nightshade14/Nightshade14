@@ -12,7 +12,7 @@ I'm a Machine Learning Engineer with **3+ years of experience** building scalabl
 - Delivered 0.83 MAP@10 and 90 % Recall@10 by architecting a personalized hybrid lexical + semantic search engine for a 5M SKU catalog, combining Learning-to-Rank (LTR), custom entity taggers and multi-stage re-ranking 
 
 ## Achievements
-- 1st Runner Up Qualcomm x Microsoft Edge AI Hackathon with AI leveraging the new Qualcomm Snapdragon X-series laptop System on Chips (SoC)'s Neural Processing Unit (NPU). Decreased response inference latency and battery consumption on edge devices by utilizing specialized Snapdragon (NPU).
+- 1st Runner Up Qualcomm x Microsoft Edge AI Hackathon with AI leveraging the new Qualcomm Snapdragon X-series laptop System on Chips (SoC)'s Neural Processing Unit (NPU). Decreased response inference latency and battery consumption on edge devices by utilizing specialized Snapdragon chipset (NPU).
 - Won India's Next Development Renewable Energy & Astronomy (INDRA-9) by developing a smart, efficient and cost-effective irrigation-system.
 - 1st runner-up in Kaggle O Predictor; a Data Science hackathon.
 - Participated in Meta's Llama 4 Hackathon NYC and worked on an awesome idea
