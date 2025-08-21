@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a Machine Learning Engineer with **3+ years of experience** building scalable AI systems that serve millions of users. Recently graduated from MS in Computer Science at NYU while bringing cutting-edge research into production-ready engineering.
+I'm a Machine Learning Engineer with **3+ years of experience** building scalable AI systems that serve millions of users. Graduated with MS in Computer Science from New York University (NYU) while bringing cutting-edge research into production-ready engineering.
 
 - Boosted CTR by 34% and conversion lift by 7.2% after spearheading 6 real-time recommendation pipelines that build dynamic affinity profiles and apply geo-contextual targeting with real-time behavioral signals 
 - Productized the search & recommendation stack as a configurable plug-and-play microservice inside the headless CMS, adding UI-driven ranking knobs and fallback rules that opened a $300K ARR upsell channel 
