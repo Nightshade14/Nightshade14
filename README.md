@@ -22,7 +22,7 @@ I'm a Machine Learning Engineer with **3+ years of experience** building scalabl
 - Leveraging Agentic AI, Mixture of Experts (MoE), and Model Context Protocol (MCP) to create Compound AI Systems
 - Exploring Language Models (Large & Small) and their applications at scale
 - Building scalable and efficient Machine Learning pipelines
-- Contributing to open-source Machine Learning and AI projects
+- Contributing to open-source Machine Learning projects
 
 ## 💻 Tech Stack
 
