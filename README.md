@@ -10,6 +10,8 @@ I'm a Machine Learning Engineer with **3+ years of experience** building scalabl
 - Productized the search and recommendation stack as a configurable plug-and-play product inside the headless CMS, adding UI-driven ranking knobs and fallback rules that opened a $300K ARR upsell channel 
 - Delivered 0.87 NDCG@10 and 90 % Recall@10 by architecting a personalized hybrid (lexical + semantic) search engine for a 5M SKU catalog, combining Learning-to-Rank (LTR), custom entity taggers and multi-stage re-ranking 
 
+- Check my Technical Deep Dive Blogs at: https://deep-dives.hashnode.dev/
+
 ## Achievements
 - 1st Runner Up Qualcomm x Microsoft Edge AI Hackathon with AI leveraging the new Qualcomm Snapdragon X-series laptop System on Chips (SoC)'s Neural Processing Unit (NPU). Decreased response inference latency and battery consumption on edge devices by utilizing specialized Snapdragon chipset (NPU).
 - Won India's Next Development Renewable Energy & Astronomy (INDRA-9) by developing a smart, efficient and cost-effective irrigation-system.
