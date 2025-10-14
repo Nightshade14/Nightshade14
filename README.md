@@ -19,6 +19,7 @@ I'm a Machine Learning Engineer building scalable AI systems that serve millions
 - Participated in Meta's Llama 4 Hackathon NYC and worked on an awesome idea
 
 ## 🔭 Currently Working On
+- Personalized weights per user query in Ranking
 - Generative AI in Retrieval and Ranking
 - Language Models in Search, Recommendation and Ranking
 - Leveraging Agentic AI, Mixture of Experts (MoE), and Model Context Protocol (MCP) to create Compound AI Systems
