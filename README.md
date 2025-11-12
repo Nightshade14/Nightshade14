@@ -5,11 +5,20 @@
 
 ## 🚀 About Me
 
-I'm a Machine Learning Engineer building scalable AI systems that serve millions of users. Graduated with MS in Computer Science from New York University (NYU) bringing cutting-edge research into production-ready engineering.
-- Boosted CTR by 34% and conversion lift by 7.2% after spearheading 6 real-time recommendation pipelines that build dynamic affinity profiles and apply geo-contextual targeting with real-time behavioral signals 
-- Productized the search and recommendation stack as a configurable plug-and-play product inside the headless CMS, adding UI-driven ranking knobs and fallback rules that opened a $300K ARR upsell channel 
-- Delivered 0.87 NDCG@10 and 90 % Recall@10 by architecting a personalized hybrid (lexical + semantic) search engine for a 5M SKU catalog, combining Learning-to-Rank (LTR), custom entity taggers and multi-stage re-ranking 
-- Check out my Technical Deep Dive Publication at: [View Publication](https://satyamchatrola.substack.com/)
+I'm a Full-stack ML Engineer with 3+ years of professional experience in production-scale Recommendation & Search systems. As a recent MS in Computer Science graduate from NYU, my focus is on architecting and scaling intelligent systems—from traditional RecSys to modern Generative AI.
+
+* **Production Impact (RecSys):** Owned the 2-year evolution of a core RecSys platform, driving a **34% CTR lift** and a **7.2% conversion lift**. This involved architecting a multi-stage system including hybrid retrieval (Two-Tower neural nets/FAISS + BM25/Solr) and iterating on LTR models from XGBoost to DeepFM.
+
+* **ML Productization:** Engineered the core Spark backend and ML APIs for a new, multi-tenant "Recommendations-as-a-Service" platform, which generated over **$300K in new ARR** in its first year.
+
+* **Current Focus (Generative AI):** My current charter involves integrating Generative AI into the company's core recommendation platform, architecting new services that leverage LLMs and agentic workflows for personalized, conversational curation.
+
+* **Personal Projects (GenAI & MLOps):** I actively build and explore advanced concepts:
+    * **RAG:** Engineered a RAG pipeline with a tiered, multi-LLM backend (Llama 3, Gemini) that achieved **95% Recall@10** on a research corpus.
+    * **Agents:** Built an end-to-end multi-agent AI system (LangChain/Autogen) for personalized music curation, configured for deployment on Azure Kubernetes (AKS).
+    * **MLOps:** Engineered a high-performance MLOps inference pipeline (<250ms latency) using Docker/K8s, Nvidia Triton, and TensorRT/OpenVINO backends.
+
+* Check out my technical writing at: **[Deep Dives](https://satyamchatrola.substack.com/)**
 
 ## Achievements
 - 1st Runner Up Qualcomm x Microsoft Edge AI Hackathon with AI leveraging the new Qualcomm Snapdragon X-series laptop System on Chips (SoC)'s Neural Processing Unit (NPU). Decreased response inference latency and battery consumption on edge devices by utilizing specialized Snapdragon chipset (NPU).
