@@ -16,7 +16,7 @@ I'm a Full-stack ML Engineer with 3+ years of professional experience in product
 * **Personal Projects (GenAI & MLOps):** I actively build and explore advanced concepts:
     * **RAG:** Engineered a RAG pipeline with a tiered, multi-LLM backend (Llama 3, Gemini) that achieved **95% Recall@10** on a research corpus.
     * **Agents:** Built an end-to-end multi-agent AI system (LangChain/Autogen) for personalized music curation, configured for deployment on Azure Kubernetes (AKS).
-    * **MLOps:** Engineered a high-performance MLOps inference pipeline (<250ms latency) using Docker/K8s, Nvidia Triton, and TensorRT/OpenVINO backends.
+    * **MLOps:** Engineered a high-performance MLOps inference pipeline (<150ms latency) using Docker/K8s, Nvidia Triton, and TensorRT/OpenVINO backends.
 
 * Check out my technical writing at: **[Deep Dives](https://satyamchatrola.substack.com/)**
 
