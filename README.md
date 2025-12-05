@@ -18,7 +18,7 @@ I'm a Full-stack ML Engineer with 3+ years of professional experience in product
     * **Agents:** Built an end-to-end multi-agent AI system (LangChain/Autogen) for personalized music curation, configured for deployment on Azure Kubernetes (AKS).
     * **MLOps:** Engineered a high-performance MLOps inference pipeline (<150ms latency) using Docker/K8s, Nvidia Triton, and TensorRT/OpenVINO backends.
 
-* Check out my technical publication at: **[Deep Dives](https://satyamchatrola.substack.com/)**
+* Check out my technical publication on Substack at: **[Deep Dives](https://satyamchatrola.substack.com/)**
 
 ## Achievements
 - 1st Runner Up Qualcomm x Microsoft Edge AI Hackathon with AI leveraging the new Qualcomm Snapdragon X-series laptop System on Chips (SoC)'s Neural Processing Unit (NPU). Decreased response inference latency and battery consumption on edge devices by utilizing specialized Snapdragon chipset (NPU).
