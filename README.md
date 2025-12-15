@@ -9,7 +9,7 @@ I'm a Full-stack ML Engineer with 3+ years of professional experience in product
 
 * **Production Impact (RecSys):** Owned the 2-year evolution of core RecSys platform, driving a **34% CTR lift** and a **7.2% conversion lift**. This involved architecting a multi-stage system including hybrid retrieval (Two-Tower neural nets/FAISS + BM25/Solr) and iterating on LTR models from XGBoost to DeepFM.
 
-* **ML Productization:** Engineered the core Spark backend and ML APIs for a new, multi-tenant "Recommendations-as-a-Service" platform, which generated over **$300K in new ARR** in its first year.
+* **ML Productization:** Engineered the core Spark backend and ML APIs for a new, multi-tenant "RecSys-as-a-Service" platform, which generated over **$300K in new ARR** in its first year.
 
 * **Current Focus (Generative AI):** My current charter involves integrating Generative AI into the company's core recommendation platform, architecting new services that leverage LLMs and agentic workflows for personalized, conversational curation.
 
