@@ -11,7 +11,7 @@ I'm a Full-stack ML Engineer with 3+ years of professional experience in product
 
 * **ML Productization:** Engineered the core Spark backend and ML APIs for a new, multi-tenant "RecSys-as-a-Service" platform, which generated over **$300K in new ARR** in its first year.
 
-* **Current Focus (Generative AI):** My current charter involves integrating Generative AI into the company's core recommendation platform, architecting new services that leverage LLMs and agentic workflows for personalized, conversational curation.
+* **Current Focus (Generative AI):** My current charter involves integrating Generative AI into the recommendation platform, architecting new services that leverage LLMs and agentic workflows for personalized, conversational curation.
 
 * **Personal Projects (GenAI & MLOps):** I actively build and explore advanced concepts:
     * **RAG:** Engineered a RAG pipeline with a tiered, multi-LLM backend (Llama 3, Gemini) that achieved **95% Recall@10** on a research corpus.
