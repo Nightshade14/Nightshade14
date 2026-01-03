@@ -25,6 +25,7 @@ I'm a Full-stack ML Engineer with 3+ years of professional experience in product
 - Won India's Next Development Renewable Energy & Astronomy (INDRA-9) by developing a smart, efficient and cost-effective irrigation-system.
 - 1st runner-up in Kaggle O Predictor; a Data Science hackathon.
 - Participated in Meta's Llama 4 Hackathon NYC and worked on an awesome idea
+- Participated in Goolgle's Gemini 3 Hackathon NYC and developed a codebase analyzer with Abstract Sytax Tree into a Code Flow Graph
 
 ## 🔭 Currently Working On
 - Adaptive Feature Contribution in Learning-to-Rank for Contextual User Queries
