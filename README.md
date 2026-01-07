@@ -77,7 +77,6 @@ I'm a Full-stack ML Engineer with 3+ years of professional experience in product
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
-![Optimum](https://img.shields.io/badge/Optimum-FF6F61?style=for-the-badge)
 ![Optuna](https://img.shields.io/badge/Optuna-0d47a1?style=for-the-badge)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
