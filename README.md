@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a Full-stack ML Engineer with 3+ years of professional experience in production-scale Recommendation & Search systems. As a recent MS in CS graduate from New York University(NYU), my focus is on architecting and scaling intelligent systems; from traditional RecSys to modern Generative AI.
+I'm a Full-stack ML Engineer with 3+ years of professional experience in production-scale Recommendation & Search systems. As a recent MS in CS graduate from New York University(NYU), my focus is on architecting and scaling intelligent systems; from traditional RecSys to modern Generative AI and Agentic AI.
 
 * **Production Impact (RecSys):** Owned the 2-year evolution of core RecSys platform, driving a **34% CTR lift** and a **7.2% conversion lift**. This involved architecting a multi-stage system including hybrid retrieval (Two-Tower neural nets/FAISS + BM25/Solr) and iterating on LTR models from XGBoost to DeepFM.
 
