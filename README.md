@@ -30,7 +30,6 @@ I'm a Full-stack ML Engineer with 3+ years of professional experience in product
 ## 🔭 Currently Working On
 - Adaptive Feature Contribution in Learning-to-Rank for Contextual User Queries
 - Language Models in Ranking
-- Language Models in Search, Recommendation and Ranking
 - Leveraging Agentic AI, Mixture of Experts (MoE), and Model Context Protocol (MCP) to create Compound AI Systems
 - Exploring Language Models (Large & Small) and their applications at scale
 - Building scalable and efficient Machine Learning pipelines
