@@ -7,7 +7,7 @@
 
 I am a Full-stack AI Research Engineer and Scientist with 3+ years of professional experience in production-grade Recommendation & Search systems. As a recent MS in CS graduate from New York University (NYU), my focus is on architecting and scaling intelligent systems; from traditional RecSys to modern Generative AI and Agentic Systems. Currently, working on real-time conversatinal speech to speech agents.
 
-* **Production Impact (RecSys):** Owned the 2-year evolution of core RecSys platform, driving a **34% CTR lift** and a **7.2% conversion lift**. This involved architecting a multi-stage system including hybrid retrieval (Two-Tower neural nets/FAISS + BM25/Solr) and iterating on LTR models from XGBoost to DeepFM.
+* **Production Impact:** Owned the 2-year evolution of core RecSys platform, driving a **34% CTR lift** and a **7.2% conversion lift**. This involved architecting a multi-stage system including hybrid retrieval (Two-Tower neural nets/FAISS + BM25/Solr) and iterating on LTR models from XGBoost to DeepFM.
 
 * **ML Productization:** Engineered the core Spark backend and ML APIs for a new, multi-tenant "RecSys-as-a-Service" platform, which generated over **$300K in new ARR** in its first year.
 
