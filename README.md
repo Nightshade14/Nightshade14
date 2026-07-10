@@ -107,7 +107,7 @@ MLflow · FAISS · Pinecone
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nightshade14&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&hide=contribs" height="150" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Nightshade14&mode=weekly&theme=transparent&hide_border=true&ring=2F81F7&fire=E25A1A&currStreakLabel=2F81F7" height="150" alt="GitHub streak" />
 </div>
 
 <div align="center">
