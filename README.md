@@ -16,6 +16,30 @@
 
 ---
 
+```text
+ ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+╔═══════════════════════════════════════════════════════════════╗
+║ ▟▙  GEFORCE RTX 5090       axial-tech · vapor chamber  ▟▙     ║
+║ ◎┌────────────────────────┐   ▲   ┌────────────────────────┐◎ ║
+║  │      ░▒▓▓████▓▓▒░      │   ▲   │      ░▒▓▓████▓▓▒░      │  ║   Satyam Chatrola  —  AI Systems Engineer
+║  │     ▄▀╲       ╱▀▄      │  ╱█╲  │     ▄▀╲       ╱▀▄      │  ║   ════════════════════════════════════════════════════════
+║  │    ▟  ╲  ╲ ╱  ╱  ▙     │ ▐▓▓▓▌ │    ▟  ╲  ╲ ╱  ╱  ▙     │  ║    Focus     >  Low-latency AI inference & real-time serving
+║  │    █   ╲ ╭─╮ ╱   █     │ ▐▓█▓▌ │    █   ╲ ╭─╮ ╱   █     │  ║    Loop      >  measure -> profile -> fix -> prove the delta
+║  │   █ ──── ┤◉├ ──── █    │  █◈█  │   █ ──── ┤◉├ ──── █    │  ║    Prod win  >  p99 395ms -> 13ms  |  mean loop lag -71%
+║  │    █   ╱ ╰─╯ ╲   █     │ ▐▓█▓▌ │    █   ╱ ╰─╯ ╲   █     │  ║    Deploy    >  14GB -> 355MB image  |  30min -> <7min ship
+║  │    ▜  ╱  ╱ ╲  ╲  ▛     │ ▐▓▓▓▌ │    ▜  ╱  ╱ ╲  ╲  ▛     │  ║    Stack     >  Python(async) . C/Rust . Triton . vLLM . SGLang
+║  │     ▀▄╱       ╲▄▀      │  ╲█╱  │     ▀▄╱       ╲▄▀      │  ║
+║  │      ░▒▓▓████▓▓▒░      │   ▼   │      ░▒▓▓████▓▓▒░      │  ║    Serving systems  [██████████░░]  strong
+║ ◎└────────────────────────┘   ▼   └────────────────────────┘◎ ║    LLM inference    [███████░░░░░]  building depth
+║ ░▒▓  N V I D I A   GEFORCE  RTX 5090   ·   FOUNDERS EDITION   ║    GPU / CUDA read  [█████░░░░░░░]  learning
+║ RGB  ▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂▁║
+╚═══════════════════════════════════════════════╤═════╤═════╤═══╝    Writing   >  satyamchatrola.substack.com
+    [DP] [DP] [DP] [HDMI]   16-PIN 12VHPWR      ╿     ╿     ╿        Links     >  github.com/Nightshade14  |  in/satyamchatrola
+   ▐▌ ▐▌ ▐▌ ▐▌ ▐▌ ▐▌ ▐▌ ▐▌ ▐▌ ▐▌ ▐▌ ▐▌ ▐▌ ▐▌ ▐▌  PCIe 5.0 x16
+```
+
+---
+
 ### What I do
 
 I find where a system is spending its time and memory, then pull that number down and prove the fix with before-and-after measurements. My focus is **low-latency AI inference and real-time serving** — cutting p99 tail latency, engineering async concurrency and backpressure for throughput under load, and hardening distributed pipelines. I'm deepening into **LLM inference-serving**: throughput, KV-cache efficiency, and tail latency at scale.
